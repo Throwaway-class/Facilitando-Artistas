@@ -1,0 +1,95 @@
+@font-face {
+    font-family: Atteron;
+    src: local("Atteron Personal Use Only Reg") 
+}
+h1{
+    color: #765959;
+    font-family: Atteron; 
+    font-size: 70px;
+    text-align: center;
+}
+.Titulo{
+    text-align: center;
+    font-family: Atteron;
+    color: #765959;
+    font-size: 70px;
+}
+
+header{
+    color: #765959;
+}
+
+nav{
+    position: static;
+    text-align: center;
+    font-size: 28px;
+    font-family: Atteron;
+    text-decoration: none;
+    color: #765959;    
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+nav li{
+    text-decoration: none;
+    color: #765959;
+}
+form{
+    display: flex;
+    justify-content: center;
+}
+input{
+    font-family: Atteron;
+    font-size: larger;
+    color: #765959;
+    background-color: #fcf4ec;
+    padding: 0;
+    width: 900px;
+    height: 50px;
+    border: 1px solid #704d4d;
+    margin-bottom: 50px;
+}
+
+span1{
+    color: #765959;
+    size-adjust: 100%;
+}
+
+.row{
+    text-align: center;
+}
+
+.row img{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    border-radius: 2%;
+}
+
+.row p{
+    font-family: Atteron;
+    color: #765959;
+    font-size: x-large;
+}
+
+.row a{
+    font-family: Atteron;
+    color: #765959;
+}
+
+.row h4{
+    font-family: Atteron;
+    color: #765959
+}
+
+.row p1{
+    font-family: Atteron;
+    color: #765959;
+    font-size: large;
+}
+
+.Logo img{
+    height: 150px;
+    width: 150px;
+}
